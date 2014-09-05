@@ -1,0 +1,1 @@
+Simple bash script to global media shortcats via Media Player Remote Interfacing Specification
